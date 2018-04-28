@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\main.cpp(53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  VinGin-core.vcxproj -> C:\Users\kayle\documents\visual studio 2017\Projects\VinGin\bin\Debug\VinGin-core.exe

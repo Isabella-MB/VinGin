@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\main.cpp(53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  batch_renderer2d.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\graphics\batch_renderer2d.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  renderable2d.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  simple_renderer2d.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  sprite.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  static_sprite.cpp
+c:\users\kayle\documents\visual studio 2017\projects\vingin\vingin-core\src\math\math.h(19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 286 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VinGin-core.vcxproj -> C:\Users\kayle\documents\visual studio 2017\Projects\VinGin\bin\Release\VinGin-core.exe
